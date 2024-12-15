@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title">
+    <title>Modern B and A Icon</title>
+    <!-- Background rectangle -->
+    <rect x="50" y="50" width="300" height="300" fill="#780000" rx="20" />
+
+    <!-- Stylized B -->
+    <path d="M110 120 h80 a40 40 0 1 1 0 80 h-80 z M110 200 h80 a40 40 0 1 1 0 80 h-80 z" fill="#FFFFFF" />
+
+    <!-- Stylized A -->
+    <path d="M220 280 l40 -160 l40 160 h-20 l-10 -40 h-40 l-10 40 z" fill="#FFFFFF" />
+</svg>
