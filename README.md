@@ -1,5 +1,12 @@
-# Vue 3 + Vite
+# Bingo app
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Overview
+The Bingo App is a web-based application designed to provide an interactive and engaging bingo game experience. Built using Vue.js and powered by Vite, this app allows to play bingo in real life with friends or family.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Features
+- Interactive bingo board with real-time updates.
+- Responsive design for seamless use on desktop and mobile devices.
+- Built with modern web technologies (Vue.js, Vite).
+
+## Development
+This project is containerized using Docker for easy setup and consistent development environments. To get started, follow the instructions below.
